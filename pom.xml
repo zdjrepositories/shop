@@ -27,7 +27,7 @@
         <commons.codec.version>1.11</commons.codec.version>
         <commons.beanutils.version>1.9.3</commons.beanutils.version>
         <commons.io.version>2.6</commons.io.version>
-        <httpclient.version>4.5</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <poi.version>3.17</poi.version>
     </properties>
 
